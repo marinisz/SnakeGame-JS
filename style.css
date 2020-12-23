@@ -17,3 +17,6 @@ h2{
 canvas#stage{
     box-shadow:0 0 4em green;
 }
+audio{
+    margin: 50px;
+}
